@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog country="en" idShop="1" xml:id="catalog">
+  <product>
+    <id_product><![CDATA[1]]></id_product>
+    <name_product><![CDATA[Faded Short Sleeves T-shirt]]></name_product>
+    <reference_product><![CDATA[demo_1]]></reference_product>
+    <lang><![CDATA[en]]></lang>
+    <categoriesNames>
+      <category><![CDATA[Home/Women/Tops/T-shirts]]></category>
+    </categoriesNames>
+    <categories>
+      <category><![CDATA[Home]]></category>
+      <category><![CDATA[Home/Women]]></category>
+      <category><![CDATA[Home/Women/Tops]]></category>
+      <category><![CDATA[Home/Women/Tops/T-shirts]]></category>
+    </categories>
+    <hasDeclination><![CDATA[1]]></hasDeclination>
+    <facets>
+      <Compositions>
+        <sub_Compositions><![CDATA[Cotton]]></sub_Compositions>
+      </Compositions>
+      <Styles>
+        <sub_Styles><![CDATA[Casual]]></sub_Styles>
+      </Styles>
+      <Properties>
+        <sub_Properties><![CDATA[Short Sleeve]]></sub_Properties>
+      </Properties>
+      <Size>
+        <sub_Size><![CDATA[S]]></sub_Size>
+        <sub_Size><![CDATA[M]]></sub_Size>
+        <sub_Size><![CDATA[L]]></sub_Size>
+      </Size>
+      <Color>
+        <sub_Color><![CDATA[Orange]]></sub_Color>
+        <sub_Color><![CDATA[Blue]]></sub_Color>
+      </Color>
+    </facets>
+    <attribute><![CDATA[1]]></attribute>
+    <stock><![CDATA[1]]></stock>
+    <quantity><![CDATA[1799]]></quantity>
+    <available_for_order><![CDATA[1]]></available_for_order>
+    <active><![CDATA[1]]></active>
+    <brand><![CDATA[Fashion Manufacturer]]></brand>
+    <price><![CDATA[19.81]]></price>
+    <wholesale_price><![CDATA[4.95]]></wholesale_price>
+    <currency><![CDATA[EUR]]></currency>
+    <id_shop><![CDATA[1]]></id_shop>
+    <url><![CDATA[http://localhost/prestashopN/en/tshirts/1-faded-short-sleeves-tshirt.html]]></url>
+    <cover><![CDATA[http://localhost/prestashopN/1-large_default/faded-short-sleeves-tshirt.jpg]]></cover>
+    <home_cover><![CDATA[http://localhost/prestashopN/1-home_default/faded-short-sleeves-tshirt.jpg]]></home_cover>
+    <published_date><![CDATA[2020-02-27 12:13:17]]></published_date>
+    <description><![CDATA[Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!]]></description>
+    <shortDescription><![CDATA[Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!]]></shortDescription>
+  </product>
+  <product>
+    <id_product><![CDATA[2]]></id_product>
+    <name_product><![CDATA[Blouse]]></name_product>
+    <reference_product><![CDATA[demo_2]]></reference_product>
+    <lang><![CDATA[en]]></lang>
+    <categoriesNames>
+      <category><![CDATA[Home/Women/Tops/Blouses]]></category>
+    </categoriesNames>
+    <categories>
+      <category><![CDATA[Home]]></category>
+      <category><![CDATA[Home/Women]]></category>
+      <category><![CDATA[Home/Women/Tops]]></category>
+      <category><![CDATA[Home/Women/Tops/Blouses]]></category>
+    </categories>
+    <hasDeclination><![CDATA[1]]></hasDeclination>
+    <facets>
+      <Compositions>
+        <sub_Compositions><![CDATA[Cotton]]></sub_Compositions>
+      </Compositions>
+      <Styles>
+        <sub_Styles><![CDATA[Casual]]></sub_Styles>
+      </Styles>
+      <Properties>
+        <sub_Properties><![CDATA[Short Sleeve]]></sub_Properties>
+      </Properties>
+      <Size>
+        <sub_Size><![CDATA[S]]></sub_Size>
+        <sub_Size><![CDATA[M]]></sub_Size>
+        <sub_Size><![CDATA[L]]></sub_Size>
+      </Size>
+      <Color>
+        <sub_Color><![CDATA[Black]]></sub_Color>
+        <sub_Color><![CDATA[White]]></sub_Color>
+      </Color>
+    </facets>
+    <attribute><![CDATA[7]]></attribute>
+    <stock><![CDATA[1]]></stock>
+    <quantity><![CDATA[1799]]></quantity>
+    <available_for_order><![CDATA[1]]></available_for_order>
+    <active><![CDATA[1]]></active>
+    <brand><![CDATA[Fashion Manufacturer]]></brand>
+    <price><![CDATA[32.4]]></price>
+    <wholesale_price><![CDATA[8.1]]></wholesale_price>
+    <currency><![CDATA[EUR]]></currency>
+    <id_shop><![CDATA[1]]></id_shop>
+    <url><![CDATA[http://localhost/prestashopN/en/blouses/2-blouse.html]]></url>
+    <cover><![CDATA[http://localhost/prestashopN/7-large_default/blouse.jpg]]></cover>
+    <home_cover><![CDATA[http://localhost/prestashopN/7-home_default/blouse.jpg]]></home_cover>
+    <published_date><![CDATA[2020-02-27 12:13:19]]></published_date>
+    <description><![CDATA[Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which has since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!]]></description>
+    <shortDescription><![CDATA[Short-sleeved blouse with feminine draped sleeve detail.]]></shortDescription>
+  </product>
+  <product>
+    <id_product><![CDATA[3]]></id_product>
+    <name_product><![CDATA[Printed Dress]]></name_product>
+    <reference_product><![CDATA[demo_3]]></reference_product>
+    <lang><![CDATA[en]]></lang>
+    <categoriesNames>
+      <category><![CDATA[Home/Women/Dresses/Casual Dresses]]></category>
+    </categoriesNames>
+    <categories>
+      <category><![CDATA[Home]]></category>
+      <category><![CDATA[Home/Women]]></category>
+      <category><![CDATA[Home/Women/Dresses]]></category>
+      <category><![CDATA[Home/Women/Dresses/Casual Dresses]]></category>
+    </categories>
+    <hasDeclination><![CDATA[1]]></hasDeclination>
+    <facets>
+      <Compositions>
+        <sub_Compositions><![CDATA[Cotton]]></sub_Compositions>
+      </Compositions>
+      <Styles>
+        <sub_Styles><![CDATA[Girly]]></sub_Styles>
+      </Styles>
+      <Properties>
+        <sub_Properties><![CDATA[Colorful Dress]]></sub_Properties>
+      </Properties>
+      <Size>
+        <sub_Size><![CDATA[M]]></sub_Size>
+        <sub_Size><![CDATA[L]]></sub_Size>
+        <sub_Size><![CDATA[S]]></sub_Size>
+      </Size>
+      <Color>
+        <sub_Color><![CDATA[Orange]]></sub_Color>
+      </Color>
+    </facets>
+    <attribute><![CDATA[13]]></attribute>
+    <stock><![CDATA[1]]></stock>
+    <quantity><![CDATA[899]]></quantity>
+    <available_for_order><![CDATA[1]]></available_for_order>
+    <active><![CDATA[1]]></active>
+    <brand><![CDATA[Fashion Manufacturer]]></brand>
+    <price><![CDATA[31.2]]></price>
+    <wholesale_price><![CDATA[7.8]]></wholesale_price>
+    <currency><![CDATA[EUR]]></currency>
+    <id_shop><![CDATA[1]]></id_shop>
+    <url><![CDATA[http://localhost/prestashopN/en/casual-dresses/3-printed-dress.html]]></url>
+    <cover><![CDATA[http://localhost/prestashopN/8-large_default/printed-dress.jpg]]></cover>
+    <home_cover><![CDATA[http://localhost/prestashopN/8-home_default/printed-dress.jpg]]></home_cover>
+    <published_date><![CDATA[2020-02-27 12:13:19]]></published_date>
+    <description><![CDATA[Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!]]></description>
+    <shortDescription><![CDATA[100% cotton double printed dress. Black and white striped top and orange high waisted skater skirt bottom.]]></shortDescription>
+  </product>
+  <product>
+    <id_product><![CDATA[4]]></id_product>
+    <name_product><![CDATA[Printed Dress]]></name_product>
+    <reference_product><![CDATA[demo_4]]></reference_product>
+    <lang><![CDATA[en]]></lang>
+    <categoriesNames>
+      <category><![CDATA[Home/Women/Dresses/Evening Dresses]]></category>
+    </categoriesNames>
+    <categories>
+      <category><![CDATA[Home]]></category>
+      <category><![CDATA[Home/Women]]></category>
+      <category><![CDATA[Home/Women/Dresses]]></category>
+      <category><![CDATA[Home/Women/Dresses/Evening Dresses]]></category>
+    </categories>
+    <hasDeclination><![CDATA[1]]></hasDeclination>
+    <facets>
+      <Compositions>
+        <sub_Compositions><![CDATA[Viscose]]></sub_Compositions>
+      </Compositions>
+      <Styles>
+        <sub_Styles><![CDATA[Dressy]]></sub_Styles>
+      </Styles>
+      <Properties>
+        <sub_Properties><![CDATA[Short Dress]]></sub_Properties>
+      </Properties>
+      <Size>
+        <sub_Size><![CDATA[S]]></sub_Size>
+        <sub_Size><![CDATA[M]]></sub_Size>
+        <sub_Size><![CDATA[L]]></sub_Size>
+      </Size>
+      <Color>
+        <sub_Color><![CDATA[Beige]]></sub_Color>
+        <sub_Color><![CDATA[Pink]]></sub_Color>
+      </Color>
+    </facets>
+    <attribute><![CDATA[16]]></attribute>
+    <stock><![CDATA[1]]></stock>
+    <quantity><![CDATA[900]]></quantity>
+    <available_for_order><![CDATA[1]]></available_for_order>
+    <active><![CDATA[1]]></active>
+    <brand><![CDATA[Fashion Manufacturer]]></brand>
+    <price><![CDATA[61.19]]></price>
+    <wholesale_price><![CDATA[15.3]]></wholesale_price>
+    <currency><![CDATA[EUR]]></currency>
+    <id_shop><![CDATA[1]]></id_shop>
+    <url><![CDATA[http://localhost/prestashopN/en/evening-dresses/4-printed-dress.html]]></url>
+    <cover><![CDATA[http://localhost/prestashopN/10-large_default/printed-dress.jpg]]></cover>
+    <home_cover><![CDATA[http://localhost/prestashopN/10-home_default/printed-dress.jpg]]></home_cover>
+    <published_date><![CDATA[2020-02-27 12:13:20]]></published_date>
+    <description><![CDATA[Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!]]></description>
+    <shortDescription><![CDATA[Printed evening dress with straight sleeves with black thin waist belt and ruffled linings.]]></shortDescription>
+  </product>
+  <product>
+    <id_product><![CDATA[5]]></id_product>
+    <name_product><![CDATA[Printed Summer Dress]]></name_product>
+    <reference_product><![CDATA[demo_5]]></reference_product>
+    <lang><![CDATA[en]]></lang>
+    <categoriesNames>
+      <category><![CDATA[Home/Women/Dresses/Summer Dresses]]></category>
+    </categoriesNames>
+    <categories>
+      <category><![CDATA[Home]]></category>
+      <category><![CDATA[Home/Women]]></category>
+      <category><![CDATA[Home/Women/Dresses]]></category>
+      <category><![CDATA[Home/Women/Dresses/Summer Dresses]]></category>
+    </categories>
+    <hasDeclination><![CDATA[1]]></hasDeclination>
+    <facets>
+      <Compositions>
+        <sub_Compositions><![CDATA[Viscose]]></sub_Compositions>
+      </Compositions>
+      <Styles>
+        <sub_Styles><![CDATA[Casual]]></sub_Styles>
+      </Styles>
+      <Properties>
+        <sub_Properties><![CDATA[Maxi Dress]]></sub_Properties>
+      </Properties>
+      <Size>
+        <sub_Size><![CDATA[S]]></sub_Size>
+        <sub_Size><![CDATA[M]]></sub_Size>
+        <sub_Size><![CDATA[L]]></sub_Size>
+      </Size>
+      <Color>
+        <sub_Color><![CDATA[Yellow]]></sub_Color>
+        <sub_Color><![CDATA[Blue]]></sub_Color>
+        <sub_Color><![CDATA[Orange]]></sub_Color>
+        <sub_Color><![CDATA[Black]]></sub_Color>
+      </Color>
+    </facets>
+    <attribute><![CDATA[19]]></attribute>
+    <stock><![CDATA[1]]></stock>
+    <quantity><![CDATA[3600]]></quantity>
+    <available_for_order><![CDATA[1]]></available_for_order>
+    <active><![CDATA[1]]></active>
+    <brand><![CDATA[Fashion Manufacturer]]></brand>
+    <price><![CDATA[34.78]]></price>
+    <wholesale_price><![CDATA[9.15]]></wholesale_price>
+    <currency><![CDATA[EUR]]></currency>
+    <id_shop><![CDATA[1]]></id_shop>
+    <url><![CDATA[http://localhost/prestashopN/en/summer-dresses/5-printed-summer-dress.html]]></url>
+    <cover><![CDATA[http://localhost/prestashopN/12-large_default/printed-summer-dress.jpg]]></cover>
+    <home_cover><![CDATA[http://localhost/prestashopN/12-home_default/printed-summer-dress.jpg]]></home_cover>
+    <published_date><![CDATA[2020-02-27 12:13:20]]></published_date>
+    <isReduced><![CDATA[1]]></isReduced>
+    <reduction><![CDATA[0.05]]></reduction>
+    <reduction_type><![CDATA[percentage]]></reduction_type>
+    <reduction_tax><![CDATA[1]]></reduction_tax>
+    <price_without_reduction><![CDATA[36.61]]></price_without_reduction>
+    <description><![CDATA[Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!]]></description>
+    <shortDescription><![CDATA[Long printed dress with thin adjustable straps. V-neckline and wiring under the bust with ruffles at the bottom of the dress.]]></shortDescription>
+  </product>
+  <product>
+    <id_product><![CDATA[6]]></id_product>
+    <name_product><![CDATA[Printed Summer Dress]]></name_product>
+    <reference_product><![CDATA[demo_6]]></reference_product>
+    <lang><![CDATA[en]]></lang>
+    <categoriesNames>
+      <category><![CDATA[Home/Women/Dresses/Summer Dresses]]></category>
+    </categoriesNames>
+    <categories>
+      <category><![CDATA[Home]]></category>
+      <category><![CDATA[Home/Women]]></category>
+      <category><![CDATA[Home/Women/Dresses]]></category>
+      <category><![CDATA[Home/Women/Dresses/Summer Dresses]]></category>
+    </categories>
+    <hasDeclination><![CDATA[1]]></hasDeclination>
+    <facets>
+      <Compositions>
+        <sub_Compositions><![CDATA[Polyester]]></sub_Compositions>
+      </Compositions>
+      <Styles>
+        <sub_Styles><![CDATA[Girly]]></sub_Styles>
+      </Styles>
+      <Properties>
+        <sub_Properties><![CDATA[Short Dress]]></sub_Properties>
+      </Properties>
+      <Size>
+        <sub_Size><![CDATA[S]]></sub_Size>
+        <sub_Size><![CDATA[M]]></sub_Size>
+        <sub_Size><![CDATA[L]]></sub_Size>
+      </Size>
+      <Color>
+        <sub_Color><![CDATA[Yellow]]></sub_Color>
+        <sub_Color><![CDATA[White]]></sub_Color>
+      </Color>
+    </facets>
+    <attribute><![CDATA[31]]></attribute>
+    <stock><![CDATA[1]]></stock>
+    <quantity><![CDATA[900]]></quantity>
+    <available_for_order><![CDATA[1]]></available_for_order>
+    <active><![CDATA[1]]></active>
+    <brand><![CDATA[Fashion Manufacturer]]></brand>
+    <price><![CDATA[36.6]]></price>
+    <wholesale_price><![CDATA[9.15]]></wholesale_price>
+    <currency><![CDATA[EUR]]></currency>
+    <id_shop><![CDATA[1]]></id_shop>
+    <url><![CDATA[http://localhost/prestashopN/en/summer-dresses/6-printed-summer-dress.html]]></url>
+    <cover><![CDATA[http://localhost/prestashopN/16-large_default/printed-summer-dress.jpg]]></cover>
+    <home_cover><![CDATA[http://localhost/prestashopN/16-home_default/printed-summer-dress.jpg]]></home_cover>
+    <published_date><![CDATA[2020-02-27 12:13:21]]></published_date>
+    <description><![CDATA[Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!]]></description>
+    <shortDescription><![CDATA[Sleeveless knee-length chiffon dress. V-neckline with elastic under the bust lining.]]></shortDescription>
+  </product>
+  <product>
+    <id_product><![CDATA[7]]></id_product>
+    <name_product><![CDATA[Printed Chiffon Dress]]></name_product>
+    <reference_product><![CDATA[demo_7]]></reference_product>
+    <lang><![CDATA[en]]></lang>
+    <categoriesNames>
+      <category><![CDATA[Home/Women/Dresses/Summer Dresses]]></category>
+    </categoriesNames>
+    <categories>
+      <category><![CDATA[Home]]></category>
+      <category><![CDATA[Home/Women]]></category>
+      <category><![CDATA[Home/Women/Dresses]]></category>
+      <category><![CDATA[Home/Women/Dresses/Summer Dresses]]></category>
+    </categories>
+    <hasDeclination><![CDATA[1]]></hasDeclination>
+    <facets>
+      <Compositions>
+        <sub_Compositions><![CDATA[Polyester]]></sub_Compositions>
+      </Compositions>
+      <Styles>
+        <sub_Styles><![CDATA[Girly]]></sub_Styles>
+      </Styles>
+      <Properties>
+        <sub_Properties><![CDATA[Midi Dress]]></sub_Properties>
+      </Properties>
+      <Size>
+        <sub_Size><![CDATA[S]]></sub_Size>
+        <sub_Size><![CDATA[M]]></sub_Size>
+        <sub_Size><![CDATA[L]]></sub_Size>
+      </Size>
+      <Color>
+        <sub_Color><![CDATA[Yellow]]></sub_Color>
+        <sub_Color><![CDATA[Green]]></sub_Color>
+      </Color>
+    </facets>
+    <attribute><![CDATA[34]]></attribute>
+    <stock><![CDATA[1]]></stock>
+    <quantity><![CDATA[1800]]></quantity>
+    <available_for_order><![CDATA[1]]></available_for_order>
+    <active><![CDATA[1]]></active>
+    <brand><![CDATA[Fashion Manufacturer]]></brand>
+    <price><![CDATA[19.68]]></price>
+    <wholesale_price><![CDATA[6.15]]></wholesale_price>
+    <currency><![CDATA[EUR]]></currency>
+    <id_shop><![CDATA[1]]></id_shop>
+    <url><![CDATA[http://localhost/prestashopN/en/summer-dresses/7-printed-chiffon-dress.html]]></url>
+    <cover><![CDATA[http://localhost/prestashopN/20-large_default/printed-chiffon-dress.jpg]]></cover>
+    <home_cover><![CDATA[http://localhost/prestashopN/20-home_default/printed-chiffon-dress.jpg]]></home_cover>
+    <published_date><![CDATA[2020-02-27 12:13:22]]></published_date>
+    <isReduced><![CDATA[1]]></isReduced>
+    <reduction><![CDATA[0.2]]></reduction>
+    <reduction_type><![CDATA[percentage]]></reduction_type>
+    <reduction_tax><![CDATA[1]]></reduction_tax>
+    <price_without_reduction><![CDATA[24.6]]></price_without_reduction>
+    <description><![CDATA[Fashion has been creating well-designed collections since 2010. The brand offers feminine designs delivering stylish separates and statement dresses which have since evolved into a full ready-to-wear collection in which every item is a vital part of a woman's wardrobe. The result? Cool, easy, chic looks with youthful elegance and unmistakable signature style. All the beautiful pieces are made in Italy and manufactured with the greatest attention. Now Fashion extends to a range of accessories including shoes, hats, belts and more!]]></description>
+    <shortDescription><![CDATA[Printed chiffon knee length dress with tank straps. Deep v-neckline.]]></shortDescription>
+  </product>
+</catalog>

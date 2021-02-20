@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e7b077f-2b06-4ea8-92fb-b46da57444df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/js/bot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/js/bots.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/js/creating-proc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/js/creation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/js/creation_proc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/js/den.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/helpers/accounts.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/helpers/accounts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/helpers/exportXML.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/helpers/exportXML.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/helpers/order.php" beforeDir="false" afterPath="$PROJECT_DIR$/classes/helpers/order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favizone.php" beforeDir="false" afterPath="$PROJECT_DIR$/favizone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generateXMLProducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/generateXMLProducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/js/Sender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/js/internal-sender.js" beforeDir="false" afterPath="$PROJECT_DIR$/views/js/internal-sender.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/js/senders-process.js" beforeDir="false" afterPath="$PROJECT_DIR$/views/js/senders-process.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/templates/admin/favizone-admin-config-custom.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/views/templates/admin/favizone-admin-config-custom.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/templates/admin/favizone-admin-config.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/views/templates/admin/favizone-admin-config.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/templates/admin/match.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/views/templates/admin/match.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/templates/admin/match16.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/views/templates/admin/match16.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/templates/admin/xml.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/views/templates/admin/xml.tpl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/prestashop/prestashop-webservice-lib" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZfRqamgDWEPY7f3N5S3qLE3JW4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/prestashop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\favizone" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e7b077f-2b06-4ea8-92fb-b46da57444df" name="Default Changelist" comment="" />
+      <created>1582715939717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582715939717</updated>
+      <workItem from="1582715940839" duration="2097000" />
+      <workItem from="1582787731100" duration="7658000" />
+      <workItem from="1582886091106" duration="4024000" />
+      <workItem from="1583329728770" duration="8960000" />
+      <workItem from="1583394910873" duration="17663000" />
+      <workItem from="1583482591940" duration="1797000" />
+      <workItem from="1583916183341" duration="5069000" />
+      <workItem from="1583998885553" duration="1586000" />
+      <workItem from="1584088931801" duration="2149000" />
+      <workItem from="1584347139773" duration="618000" />
+      <workItem from="1584430573944" duration="2481000" />
+      <workItem from="1584518737359" duration="371000" />
+      <workItem from="1584527829679" duration="7435000" />
+      <workItem from="1585212692810" duration="5545000" />
+      <workItem from="1585228357381" duration="11153000" />
+      <workItem from="1585294419644" duration="14974000" />
+      <workItem from="1585555022110" duration="7749000" />
+      <workItem from="1585644213485" duration="5976000" />
+      <workItem from="1585814069821" duration="13109000" />
+      <workItem from="1585900389145" duration="12207000" />
+      <workItem from="1586160212999" duration="1797000" />
+      <workItem from="1586332055291" duration="2921000" />
+      <workItem from="1586764837417" duration="1838000" />
+      <workItem from="1586851829824" duration="10190000" />
+      <workItem from="1586938315718" duration="11956000" />
+      <workItem from="1587024008553" duration="3736000" />
+      <workItem from="1587028005459" duration="12954000" />
+      <workItem from="1587117460244" duration="1598000" />
+      <workItem from="1587464861512" duration="2609000" />
+      <workItem from="1587484946753" duration="975000" />
+      <workItem from="1587542919692" duration="9587000" />
+      <workItem from="1587715725294" duration="2209000" />
+      <workItem from="1587974813306" duration="7715000" />
+      <workItem from="1588584296873" duration="3636000" />
+      <workItem from="1588667190769" duration="3670000" />
+      <workItem from="1588768904878" duration="3235000" />
+      <workItem from="1588838747751" duration="9900000" />
+      <workItem from="1588929712918" duration="7175000" />
+      <workItem from="1589274580844" duration="5006000" />
+      <workItem from="1589359812452" duration="1882000" />
+      <workItem from="1589463475117" duration="1185000" />
+      <workItem from="1589531714084" duration="1402000" />
+      <workItem from="1589877705965" duration="597000" />
+      <workItem from="1589890897318" duration="594000" />
+      <workItem from="1589961466511" duration="3499000" />
+      <workItem from="1590053661779" duration="16324000" />
+      <workItem from="1590492386273" duration="6004000" />
+      <workItem from="1590588079049" duration="5380000" />
+      <workItem from="1590655411073" duration="3739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587483916952">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1587483916952" />
+    <state x="459" y="282" key="ComposerInitDialogKey" timestamp="1585555443354">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="459" y="282" key="ComposerInitDialogKey/0.0.1366.738@0.0.1366.738" timestamp="1585555443354" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1589962620642">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1589962620642" />
+    <state x="456" y="183" key="NewPhpClassDialog" timestamp="1585296316087">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="456" y="183" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1585296316087" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1585295467197">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1585295467197" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1587559805813">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1587559805813" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1590069999539">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1590069999539" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587464860447">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1587464860447" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1587987201555">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1587987201555" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1585644732924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1585644732924" />
+  </component>
+</project>

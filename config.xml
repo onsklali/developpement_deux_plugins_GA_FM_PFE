@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>favizone</name>
+	<displayName><![CDATA[Personalization for prestashop]]></displayName>
+	<version><![CDATA[1.1.6]]></version>
+	<description><![CDATA[Favizone allows e-retailers to increase their sales by recommending relevant products for each clients.]]></description>
+	<author><![CDATA[Favizone Inc]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,8 @@
+{
+    "require": {
+        "prestashop/prestashop-webservice-lib": "dev-master",
+      "ext-json": "*",
+      "ext-curl": "*",
+        "google/cloud": "^0.133.0"
+    }
+}
